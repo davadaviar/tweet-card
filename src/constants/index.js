@@ -10,19 +10,15 @@ export const accountItems = [
         tweet : 'Stay hungry. Stay foolish.',
         engagements : [
             {
-                icon : `${reply}`,
                 amount : '10k'
             },
             {
-                icon : `${retweet}`,
                 amount : '15k'
             },
             {
-                icon : `${like}`,
                 amount : '10k'
             },
             {
-                icon : `${bookMark}`,
                 amount : '20k'
             }
         ]
@@ -35,19 +31,15 @@ export const accountItems = [
         tweet : 'It\’s fine to celebrate success, but it is more important to heed the lessons of failure',
         engagements : [
             {
-                icon : `${reply}`,
                 amount : '7k'
             },
             {
-                icon : `${retweet}`,
                 amount : '9k'
             },
             {
-                icon : `${like}`,
                 amount : '10k'
             },
             {
-                icon : `${bookMark}`,
                 amount : '15k'
             }
         ]
@@ -60,19 +52,15 @@ export const accountItems = [
         tweet : 'Pada lelaki yang sukses pasti ada wanita baik yang mendukungnya. pada lelaki yang gagal pasti banyak wanita cantik di belakangnya.',
         engagements : [
             {
-                icon : `${reply}`,
                 amount : '8k'
             },
             {
-                icon : `${retweet}`,
                 amount : '15k'
             },
             {
-                icon : `${like}`,
                 amount : '20k'
             },
             {
-                icon : `${bookMark}`,
                 amount : '30k'
             }
         ]
